@@ -16,7 +16,6 @@
       <td>AGAINVC_LoIN</td>
       <td>MediumVC</td>
       <td>MediumVC_LoIN</td>
-      <td>MAE-VC</td>
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/VCTK/F2F/1/p276_142.wav"> </audio></td>
